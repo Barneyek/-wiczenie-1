@@ -1,0 +1,6 @@
+C:\Users\damian\Desktop\Ćwiczenie 1\Cwiczenia1\Cwiczenia1\bin\Debug\Cwiczenia1.exe.config
+C:\Users\damian\Desktop\Ćwiczenie 1\Cwiczenia1\Cwiczenia1\bin\Debug\Cwiczenia1.exe
+C:\Users\damian\Desktop\Ćwiczenie 1\Cwiczenia1\Cwiczenia1\bin\Debug\Cwiczenia1.pdb
+C:\Users\damian\Desktop\Ćwiczenie 1\Cwiczenia1\Cwiczenia1\obj\Debug\Cwiczenia1.csprojResolveAssemblyReference.cache
+C:\Users\damian\Desktop\Ćwiczenie 1\Cwiczenia1\Cwiczenia1\obj\Debug\Cwiczenia1.exe
+C:\Users\damian\Desktop\Ćwiczenie 1\Cwiczenia1\Cwiczenia1\obj\Debug\Cwiczenia1.pdb
